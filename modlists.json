@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "MO2077",
+    "description": "MO2077 combines root builder and MO2 to make Cyberpunk modding with a mod manager easy, and more importantly, functional.",
+    "author": "JTK",
+    "maintainers": [
+      "JTK",
+      "github/JustThatKing"
+    ],
+    "game": "cyberpunk2077",
+    "official": false,
+    "tags": [
+      "Utility"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/Stuff%20for%20Wabbajack/MO2077.webp",
+      "readme": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/readme.md",
+      "download": "https://authored-files.wabbajack.org/MO2077.wabbajack_0fd888fa-7b84-4e74-9faa-540391025c17",
+      "machineURL": "MO2077",
+      "discordURL": "https://discord.gg/YE2VzkEwEj"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "HBz5tbCknqA=",
+      "Size": 9131112,
+      "NumberOfArchives": 17,
+      "SizeOfArchives": 244674294,
+      "NumberOfInstalledFiles": 1753,
+      "SizeOfInstalledFiles": 490760938
+    },
+    "version": "1.0.0",
+  }
+]
