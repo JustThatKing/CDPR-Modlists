@@ -54,21 +54,21 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/Cyberpunk_Thing.webp",
+      "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/CT%20Test.png",
       "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Cyberpunk%20THING.wabbajack_b67ef451-602a-4c32-b301-a32bdb1a9904",
+      "download": "https://authored-files.wabbajack.org/Cyberpunk%20THING.wabbajack_c0e83e8d-5a29-4ebe-bab5-c4d59e5452a0",
       "machineURL": "CyberpunkTHING",
       "discordURL": "https://discord.gg/eJdMQKnQVt"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "a/pgJC0cc8A=",
-      "Size": 5007093,
-      "NumberOfArchives": 111,
-      "SizeOfArchives": 417894092,
-      "NumberOfInstalledFiles": 2429,
-      "SizeOfInstalledFiles": 637429460
+      "Hash": "aiyRweZkj7Q=",
+      "Size": 5026393,
+      "NumberOfArchives": 121,
+      "SizeOfArchives": 395775585,
+      "NumberOfInstalledFiles": 2483,
+      "SizeOfInstalledFiles": 615585216
     },
-    "version": "2.3"
+    "version": "2.5"
   }
 ]
