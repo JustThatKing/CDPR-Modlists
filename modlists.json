@@ -57,21 +57,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/CT%20Test%20black%20version.png",
       "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_06f7b662-b17d-4458-aab5-7c56fdfb2f0b",
+      "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_a4c4c7ad-34a0-49db-baea-78b824276c69",
       "machineURL": "CyberpunkTHING",
       "discordURL": "https://discord.gg/eJdMQKnQVt"
     },
     "download_metadata": {
-      "Hash": "U/6nqKSTXhw=",
-      "Size": 5101125,
-      "NumberOfArchives": 139,
-      "SizeOfArchives": 609217883,
-      "NumberOfInstalledFiles": 2918,
-      "SizeOfInstalledFiles": 834866223
+      "Hash": "OXq9jukRA+k=",
+      "Size": 5123141,
+      "NumberOfArchives": 144,
+      "SizeOfArchives": 700180968,
+      "NumberOfInstalledFiles": 2955,
+      "SizeOfInstalledFiles": 927539818
     },
-    "version": "3.3",
+    "version": "3.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-02-01T05:14:03.7427095Z",
+    "dateUpdated": "2023-02-03T08:53:04.0869476Z",
     "repositoryName": ""
   }
 ]
