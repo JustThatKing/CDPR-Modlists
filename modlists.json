@@ -38,7 +38,7 @@
   },
   {
     "title": "Cyberpunk THING",
-    "description": "Cyberpunk 2077 is not a hard game. We decided to change that. The aim is to make Cyberpunk the game it was always intended to be. More immersive, more realistic. A bullet\u0027s a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they\u0027ve never run into anything like you.",
+    "description": "More immersive, more realistic. A bullet\u0027s a bullet, and Night City is full of hardened gangoons with hair triggers and bad attitudes. But they\u0027ve never run into anything like you.",
     "author": "z9r",
     "maintainers": [
       "z9r",
@@ -55,8 +55,8 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/CT%20Test%20black%20version.png",
-      "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/README.md",
+      "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/wabbajack%20new%20logo%20test.png",
+      "readme": "https://github.com/z9er/CyberpunkTHING/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_f9a362fd-2946-40e2-a95e-6931e9a8636e",
       "machineURL": "CyberpunkTHING",
       "discordURL": "https://discord.gg/eJdMQKnQVt"
