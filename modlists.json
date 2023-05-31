@@ -57,21 +57,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20logo.webp",
       "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/documents/Link%20Page.md",
-      "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_0f0ef312-6781-4ab1-a99f-8d2428ad1e22",
+      "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_ee4fdd56-ca2f-40d2-8856-de6c2e7416ae",
       "machineURL": "CyberpunkTHING",
       "discordURL": "https://discord.gg/eJdMQKnQVt"
     },
     "download_metadata": {
-      "Hash": "cmhT9HzJaEw=",
-      "Size": 6374364,
-      "NumberOfArchives": 161,
-      "SizeOfArchives": 1596041371,
-      "NumberOfInstalledFiles": 3669,
-      "SizeOfInstalledFiles": 2053417749
+      "Hash": "ITra6riGFV0=",
+      "Size": 6372023,
+      "NumberOfArchives": 159,
+      "SizeOfArchives": 1429897937,
+      "NumberOfInstalledFiles": 3663,
+      "SizeOfInstalledFiles": 1887229263
     },
-    "version": "4.2",
+    "version": "4.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-05-22T08:05:04.188351Z",
+    "dateUpdated": "2023-05-31T09:40:00.7872894Z",
     "repositoryName": ""
   }
 ]
