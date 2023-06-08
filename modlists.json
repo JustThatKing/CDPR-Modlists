@@ -19,21 +19,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/Stuff%20for%20Wabbajack/MO2077.webp",
       "readme": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/readme.md",
-      "download": "https://authored-files.wabbajack.org/MO2077.wabbajack_c19d624a-26e2-439c-a173-56239c2747ec",
+      "download": "https://authored-files.wabbajack.org/MO2077.wabbajack_b8b14755-aff3-416c-922e-02dd2bfa56f4",
       "machineURL": "MO2077",
       "discordURL": "https://discord.gg/YE2VzkEwEj"
     },
     "download_metadata": {
-      "Hash": "zTzLTPhMu9w=",
-      "Size": 286639,
-      "NumberOfArchives": 27,
-      "SizeOfArchives": 265940041,
-      "NumberOfInstalledFiles": 2435,
-      "SizeOfInstalledFiles": 709535388
+      "Hash": "Q66LtnT9agc=",
+      "Size": 285280,
+      "NumberOfArchives": 19,
+      "SizeOfArchives": 263196901,
+      "NumberOfInstalledFiles": 2434,
+      "SizeOfInstalledFiles": 708649645
     },
-    "version": "1.0.6",
+    "version": "1.0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-06-07T01:32:30.0692904Z",
+    "dateUpdated": "2023-06-08T02:21:53.1423247Z",
     "repositoryName": ""
   },
   {
