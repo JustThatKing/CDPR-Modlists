@@ -15,6 +15,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/Stuff%20for%20Wabbajack/MO2077.webp",
@@ -53,25 +54,26 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/images/wabbajack%20logo.webp",
       "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_8a806593-64f0-4a9e-9ef7-98e4d451be5e",
+      "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_75c84a3c-3c1e-49af-8bf7-52bff3f8ffbb",
       "machineURL": "CyberpunkTHING",
       "discordURL": "https://discord.gg/eJdMQKnQVt"
     },
     "download_metadata": {
-      "Hash": "O1ftPOnSxlU=",
-      "Size": 5138796,
-      "NumberOfArchives": 163,
-      "SizeOfArchives": 1499124629,
-      "NumberOfInstalledFiles": 3639,
-      "SizeOfInstalledFiles": 1956981303
+      "Hash": "UIy2Znxe5Gk=",
+      "Size": 1962022,
+      "NumberOfArchives": 150,
+      "SizeOfArchives": 727980930,
+      "NumberOfInstalledFiles": 3148,
+      "SizeOfInstalledFiles": 1005085717
     },
-    "version": "5.0",
+    "version": "4.5.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-08-24T15:02:49.3066588Z",
+    "dateUpdated": "2023-12-31T15:25:14.5513646Z",
     "repositoryName": ""
   }
 ]
