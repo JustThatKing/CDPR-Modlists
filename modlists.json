@@ -59,21 +59,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/resized%20blue.png",
       "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_bb89c5ec-6a2a-4281-9e87-204bcc58d87e",
+      "download": "https://authored-files.wabbajack.org/Welcome to Night City.wabbajack_6e701900-aee9-4473-8743-4c976813c492",
       "machineURL": "CyberpunkTHING",
       "discordURL": "https://discord.gg/eJdMQKnQVt"
     },
     "download_metadata": {
-      "Hash": "/zizY/SzIL8=",
-      "Size": 1961185,
+      "Hash": "Gcn4sUswwcU=",
+      "Size": 2174989,
       "NumberOfArchives": 149,
       "SizeOfArchives": 727966777,
       "NumberOfInstalledFiles": 3147,
-      "SizeOfInstalledFiles": 1005065200
+      "SizeOfInstalledFiles": 1005065539
     },
     "version": "4.5.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-31T20:05:14.0277887Z",
+    "dateUpdated": "2024-01-07T19:50:09.8256726Z",
     "repositoryName": ""
   }
 ]
