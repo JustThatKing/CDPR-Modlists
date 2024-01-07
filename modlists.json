@@ -38,7 +38,7 @@
     "repositoryName": ""
   },
   {
-    "title": "Cyberpunk THING",
+    "title": "Welcome to Night City",
     "description": "Night City is full of hardened gangoons with hair triggers and bad attitudes. But they\u0027ve never run into anything like you.",
     "author": "z9r",
     "maintainers": [
@@ -57,7 +57,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/resized%20wabbajack%20ui%20image.jpg",
+      "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/resized%20blue.png",
       "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/Readme.md",
       "download": "https://authored-files.wabbajack.org/Cyberpunk THING.wabbajack_bb89c5ec-6a2a-4281-9e87-204bcc58d87e",
       "machineURL": "CyberpunkTHING",
