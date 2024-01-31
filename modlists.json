@@ -16,7 +16,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/Stuff%20for%20Wabbajack/MO2077.webp",
       "readme": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/readme.md",
@@ -55,7 +55,7 @@
     "utility_list": false,
     "image_contains_title": false,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/blue%20black%20background%20dot%20pattern%202.png",
       "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/Readme.md",
