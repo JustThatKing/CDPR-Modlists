@@ -16,7 +16,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/Stuff%20for%20Wabbajack/MO2077.webp",
       "readme": "https://raw.githubusercontent.com/JustThatKing/MO2077/main/readme.md",
