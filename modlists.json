@@ -59,21 +59,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/resources/blue%20black%20background%20dot%20pattern%202.png",
       "readme": "https://raw.githubusercontent.com/z9er/CyberpunkTHING/main/Readme.md",
-      "download": "https://authored-files.wabbajack.org/Welcome to Night City.wabbajack_4cc13e6f-582c-4a1f-ba58-2aa6ea902629",
+      "download": "https://authored-files.wabbajack.org/Welcome to Night City.wabbajack_c154328f-8312-41f2-b78a-37dad7779a91",
       "machineURL": "CyberpunkTHING",
       "discordURL": "https://discord.gg/eJdMQKnQVt"
     },
     "download_metadata": {
-      "Hash": "C1/YBOkOCSg=",
-      "Size": 1745563,
-      "NumberOfArchives": 232,
-      "SizeOfArchives": 2026754963,
-      "NumberOfInstalledFiles": 3735,
-      "SizeOfInstalledFiles": 2346307143
+      "Hash": "K7y3m/xRPJQ=",
+      "Size": 2074901,
+      "NumberOfArchives": 235,
+      "SizeOfArchives": 2026793227,
+      "NumberOfInstalledFiles": 3747,
+      "SizeOfInstalledFiles": 2347306099
     },
-    "version": "4.7.1",
+    "version": "4.7.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-15T22:58:00.2096232Z",
+    "dateUpdated": "2024-10-02T04:11:57.7521676Z",
     "repositoryName": ""
   }
 ]
